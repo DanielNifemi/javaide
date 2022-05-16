@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38146a10-4110-4e9a-98fc-c27dff846ddc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScoreNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/AutoBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/EvenOddIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/FactorialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/LoopNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/NaturalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/PrimeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TrianglePrinting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TrianglePrinting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TrianglePrinting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TrianglePrinting4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TwelveDaysOfChristmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/KtaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -180,6 +158,7 @@
       <workItem from="1651647439909" duration="14831000" />
       <workItem from="1651987465999" duration="653000" />
       <workItem from="1652075764500" duration="2092000" />
+      <workItem from="1652174790351" duration="3275000" />
     </task>
     <servers />
   </component>
