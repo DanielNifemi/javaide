@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class AutomaticBikeTest {
+public class    AutomaticBikeTest {
     @Test
     public void automaticBikeOnTest() {
         //given that I have a bike
@@ -14,6 +14,7 @@ public class AutomaticBikeTest {
         boolean suzukiBikeOnValue = suzukiBike.getOnValue();
         //check that it is on
         assertTrue(suzukiBikeOnValue);
+        
     }
     @Test
     public void automaticBikeOffTest(){
