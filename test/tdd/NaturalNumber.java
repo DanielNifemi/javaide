@@ -1,6 +1,6 @@
 package tdd;
 
-public class NaturalNumber {
+public class    NaturalNumber {
 
     public static void main(String[] args){
              // int w, num = 10 , sum = 0;

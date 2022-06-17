@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38146a10-4110-4e9a-98fc-c27dff846ddc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignments/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignments/HotelMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/LibraryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TicTacToeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Assignments/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/KtaMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/HotelMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/NaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/NaturalNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +52,13 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/user/Documents/GitHub/javaide/src&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/Documents/GitHub/javaide/test&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/javaide/src/Assignments&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -72,8 +68,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="tdd" />
       <recent name="Assignments" />
+      <recent name="tdd" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Documents\GitHub\javaide\src\Assignments" />
@@ -92,7 +88,25 @@
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TicTacToeExample">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="LoopNumbers.java" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AccountTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.AccountTest" />
+      <module name="ScoreNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tdd.ArrayList" />
       <module name="ScoreNumber" />
@@ -132,19 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.PrimeInteger" />
-      <module name="ScoreNumber" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TicTacToeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tdd.TicTacToeExample" />
       <module name="ScoreNumber" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.TicTacToeExample" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.HotelMain" />
         <item itemvalue="Application.BarChart" />
-        <item itemvalue="Application.PrimeInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,9 @@
       <workItem from="1654273786618" duration="3000" />
       <workItem from="1654273833916" duration="2642000" />
       <workItem from="1654459774740" duration="994000" />
-      <workItem from="1654708170045" duration="1246000" />
+      <workItem from="1654708170045" duration="8554000" />
+      <workItem from="1654901779410" duration="2494000" />
+      <workItem from="1655310530416" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="java updated">
       <created>1652744864017</created>
@@ -215,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653063354574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java updated">
+      <created>1654709942041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654709942041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
